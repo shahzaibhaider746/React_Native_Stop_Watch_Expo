@@ -7,7 +7,7 @@ A simple cross platform (iOS and Android) React Native timer app. This example w
 
 ### Installation
 
-- `git clone https://github.com/ReactNativeSchool/react-native-timer`
+- `git clone https://github.com/shahzaibhaider746/React_Native_Stop_Watch_Expo.git`
 - `yarn install`/`npm install`
 
 ### Running
